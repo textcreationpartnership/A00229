@@ -36,11 +36,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Articles to be enquired of within the dioces of Norwiche, in the metropoliticall visitation of the m
+ARTICLES to be enquired of within the Dioces of Norwiche, in the Metropoliticall visitation of the m
 #####Body#####
-Articles to be enquired of within the dioces of Norwiche, in the metropoliticall visitation of the m
+
+1. Instructions to the Commissioners for the dioces of Norwiche.
+
+1. Articles to be inquired of.
+
 #####Back#####
-Articles to be enquired of within the dioces of Norwiche, in the metropoliticall visitation of the m
+Imprinted at London by Reginald Wolfe.Anno Domini. M. D. LX VII.
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
