@@ -36,7 +36,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-ARTICLES to be enquired of within the Dioces of Norwiche, in the Metropoliticall visitation of the m
+
 #####Body#####
 
 1. Instructions to the Commissioners for the dioces of Norwiche.
